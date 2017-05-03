@@ -1,2 +1,2 @@
 language: csharp
-solution: cfuFor.sln
+solution: cfuFor/cfuFor.sln
