@@ -91,7 +91,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\01 - Apps\WebMvc\WebMvc.csproj">
+    <ProjectReference Include="..\WebMvc\WebMvc.csproj">
       <Project>{5DB607FF-06C9-4EB0-96C1-F4A772A3E90F}</Project>
       <Name>WebMvc</Name>
     </ProjectReference>

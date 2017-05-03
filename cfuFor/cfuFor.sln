@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Apps", "01 - Apps", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMvc", "01 - Apps\WebMvc\WebMvc.csproj", "{5DB607FF-06C9-4EB0-96C1-F4A772A3E90F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMvc.Testes", "WebMvc.Testes\WebMvc.Testes.csproj", "{B61CECC6-7E47-4F09-9869-F5C1B918087E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMvc.Testes", "01 - Apps\WebMvc.Testes\WebMvc.Testes.csproj", "{B61CECC6-7E47-4F09-9869-F5C1B918087E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
