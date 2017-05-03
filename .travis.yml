@@ -3,6 +3,7 @@ solution: cfuFor/cfuFor.sln
 
 install:
   - sudo apt-get install mono-devel nunit-console
+  - nuget restore cfuFor/cfuFor.sln
   
 script: 
   - xbuild cfuFor/cfuFor.sln
