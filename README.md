@@ -21,6 +21,10 @@ Deploy on azure:
 * [Structuremap](https://github.com/structuremap/structuremap/) - Dependency Management
 * [Mvc](https://github.com/aspnet/Mvc/) - MVC 5
 
+# Continuous Integration
+[![codecov](https://codecov.io/gh/wmkDev/CFUFOR/branch/develop/graph/badge.svg?token=XtftekJqkM)](https://codecov.io/gh/wmkDev/CFUFOR)
+
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/wmkDev/CFUFOR/tags). 
