@@ -23,8 +23,8 @@ Deploy on azure:
 
 # Continuous Integration
 
-[![Build Status](https://travis-ci.com/wmkDev/CFUFOR.svg?token=DU6rCTpvc6QuqpgHb6S9&branch=master)](https://travis-ci.com/wmkDev/CFUFOR)
-[![codecov](https://codecov.io/gh/wmkDev/CFUFOR/branch/develop/graph/badge.svg?token=XtftekJqkM)](https://codecov.io/gh/wmkDev/CFUFOR)
+Travis CI: [![Build Status](https://travis-ci.com/wmkDev/CFUFOR.svg?token=DU6rCTpvc6QuqpgHb6S9&branch=master)](https://travis-ci.com/wmkDev/CFUFOR)
+Codecov: [![codecov](https://codecov.io/gh/wmkDev/CFUFOR/branch/develop/graph/badge.svg?token=XtftekJqkM)](https://codecov.io/gh/wmkDev/CFUFOR)
 
 
 ## Versioning
