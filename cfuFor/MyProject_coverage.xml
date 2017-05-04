@@ -2,17 +2,17 @@
 <CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Summary numSequencePoints="31" visitedSequencePoints="0" numBranchPoints="7" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="10" minCyclomaticComplexity="0" visitedClasses="0" numClasses="5" visitedMethods="0" numMethods="7" />
   <Modules>
-    <Module hash="6E-1D-67-CA-37-C0-E4-15-18-0E-36-96-74-C1-D1-57-B6-92-FC-D4">
+    <Module hash="DB-E2-CC-03-82-CD-7A-CA-74-74-5D-21-3C-14-35-13-A9-FE-B0-C2">
       <Summary numSequencePoints="31" visitedSequencePoints="0" numBranchPoints="7" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="10" minCyclomaticComplexity="0" visitedClasses="0" numClasses="5" visitedMethods="0" numMethods="7" />
-      <ModulePath>F:\Desenvolvimento\Projects\CFUFORGit\cfuFor\01 - Apps\WebMvc\bin\WebMvc.dll</ModulePath>
-      <ModuleTime>2017-05-04T04:57:30.6416027Z</ModuleTime>
+      <ModulePath>F:\Desenvolvimento\Projects\CFUFORGit\cfuFor\01-Apps\WebMvc\bin\WebMvc.dll</ModulePath>
+      <ModuleTime>2017-05-04T05:24:46.3843705Z</ModuleTime>
       <ModuleName>WebMvc</ModuleName>
       <Files>
-        <File uid="1" fullPath="F:\Desenvolvimento\Projects\CFUFORGit\cfuFor\01 - Apps\WebMvc\App_Start\BundleConfig.cs" />
-        <File uid="2" fullPath="F:\Desenvolvimento\Projects\CFUFORGit\cfuFor\01 - Apps\WebMvc\App_Start\FilterConfig.cs" />
-        <File uid="3" fullPath="F:\Desenvolvimento\Projects\CFUFORGit\cfuFor\01 - Apps\WebMvc\App_Start\RouteConfig.cs" />
-        <File uid="4" fullPath="F:\Desenvolvimento\Projects\CFUFORGit\cfuFor\01 - Apps\WebMvc\Global.asax.cs" />
-        <File uid="5" fullPath="F:\Desenvolvimento\Projects\CFUFORGit\cfuFor\01 - Apps\WebMvc\Controllers\HomeController.cs" />
+        <File uid="1" fullPath="F:\Desenvolvimento\Projects\CFUFORGit\cfuFor\01-Apps\WebMvc\App_Start\BundleConfig.cs" />
+        <File uid="2" fullPath="F:\Desenvolvimento\Projects\CFUFORGit\cfuFor\01-Apps\WebMvc\App_Start\FilterConfig.cs" />
+        <File uid="3" fullPath="F:\Desenvolvimento\Projects\CFUFORGit\cfuFor\01-Apps\WebMvc\App_Start\RouteConfig.cs" />
+        <File uid="4" fullPath="F:\Desenvolvimento\Projects\CFUFORGit\cfuFor\01-Apps\WebMvc\Global.asax.cs" />
+        <File uid="5" fullPath="F:\Desenvolvimento\Projects\CFUFORGit\cfuFor\01-Apps\WebMvc\Controllers\HomeController.cs" />
       </Files>
       <Classes>
         <Class>
