@@ -27,7 +27,9 @@ Hosting App and Database on cloud => [Microsoft Azure](https://portal.azure.com/
       <a href="https://travis-ci.org/"><strong>Travis CI</strong></a><p><sup>(branch: develop)</sup></p>
     </td>
     <td>
+    <a href="https://travis-ci.com/wmkDev/CFUFOR">    
       <img src="https://travis-ci.com/wmkDev/CFUFOR.svg?token=DU6rCTpvc6QuqpgHb6S9&branch=develop" alt="Travis develop">    
+      </a>
     </td>
   </tr>
   <tr>
@@ -41,8 +43,6 @@ Hosting App and Database on cloud => [Microsoft Azure](https://portal.azure.com/
     </td>
   </tr>
 </table>
-
-
 
 
 ## Versioning
