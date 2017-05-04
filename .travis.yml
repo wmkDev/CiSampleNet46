@@ -10,7 +10,7 @@ after_success:
   
 install:
   - sudo apt-get install mono-devel nunit-console
-  - sudo apt-get install -global codecov
+  - sudo apt-get install codecov
   - nuget restore cfuFor/cfuFor.sln  
   
 script: 
