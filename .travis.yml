@@ -1,10 +1,19 @@
 language: csharp
 solution: cfuFor/cfuFor.sln
 
+env:
+  global:
+    - CODECOV_TOKEN=:XtftekJqkM 
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
+  
 install:
   - sudo apt-get install mono-devel nunit-console
   - nuget restore cfuFor/cfuFor.sln
+  - sudo install -g codecov
   
 script: 
   - xbuild cfuFor/cfuFor.sln
+  - codecov
 
