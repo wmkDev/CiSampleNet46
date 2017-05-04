@@ -4,10 +4,16 @@ solution: cfuFor/cfuFor.sln
 env:
   global:
     - CODECOV_TOKEN=:XtftekJqkM 
+
+before_install: 
+  - sudo pip install codecov
   
 install:
   - sudo apt-get install mono-devel nunit-console  
-  - nuget restore cfuFor/cfuFor.sln  
-  
+  - nuget restore cfuFor/cfuFor.sln   
+   
 script: 
   - xbuild cfuFor/cfuFor.sln
+
+after_success: 
+  - codecov
