@@ -35,10 +35,15 @@ Hosting App and Database on cloud => [Microsoft Azure](https://portal.azure.com/
       <a href="https://codecov.io/"><strong>Codecov</strong></a><p><sup>(branch: develop)</sup></p>
     </td>
     <td>
-      <img src="https://img.shields.io/codecov/c/github/wmkDev/Beast.svg?maxAge=0" alt="Codecov develop">    
+      <a href="https://codecov.io/gh/wmkDev/CFUFOR">
+        <img src="https://codecov.io/gh/wmkDev/CFUFOR/branch/develop/graph/badge.svg?token=XtftekJqkM" alt="Codecov" />
+      </a>
     </td>
   </tr>
 </table>
+
+
+
 
 ## Versioning
 
