@@ -2,15 +2,6 @@
 
 Projeto Modelo com integração Azure e Travis
 
-### Configuration
-
-
-## Deployment
-
-[Microsoft Azure](https://portal.azure.com/) hosting app and database.
-
-[Ambiente de Teste](http://cfufor-teste.azurewebsites.net/) - http://cfufor-teste.azurewebsites.net/
-
 ## Built With
 
 * .NET Framework 4.6.1
@@ -21,10 +12,15 @@ Projeto Modelo com integração Azure e Travis
 * [Structuremap](https://github.com/structuremap/structuremap/) - Dependency Management
 * [Mvc](https://github.com/aspnet/Mvc/) - MVC 5
 
+## Deployment
+
+Hosting App and Database on cloud => [Microsoft Azure](https://portal.azure.com/).
+
+[Ambiente de Teste](http://cfufor-teste.azurewebsites.net/) - http://cfufor-teste.azurewebsites.net/
+
 # Continuous Integration
 
-##Homologação:
-
+## Homologação:
 <table>
   <tr>
     <td>
@@ -43,27 +39,6 @@ Projeto Modelo com integração Azure e Travis
     </td>
   </tr>
 </table>
-
-##Produção:
-<table>
-  <tr>
-    <td>
-      <a href="https://travis-ci.org/"><strong>Travis CI</strong></a><p><sup>(branch: develop)</sup></p>
-    </td>
-    <td>
-      <img src="https://travis-ci.com/wmkDev/CFUFOR.svg?token=DU6rCTpvc6QuqpgHb6S9&branch=develop" alt="Travis develop">    
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://codecov.io/"><strong>Codecov</strong></a><p><sup>(branch: develop)</sup></p>
-    </td>
-    <td>
-      <img src="https://img.shields.io/codecov/c/github/wmkDev/Beast.svg?maxAge=0" alt="Codecov develop">    
-    </td>
-  </tr>     
-</table>
-
 
 ## Versioning
 
