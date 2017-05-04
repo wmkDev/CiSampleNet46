@@ -23,8 +23,41 @@ Deploy on azure:
 
 # Continuous Integration
 
-Travis CI: [![Build Status](https://travis-ci.com/wmkDev/CFUFOR.svg?token=DU6rCTpvc6QuqpgHb6S9&branch=develop)](https://travis-ci.com/wmkDev/CFUFOR)
-Codecov: [![codecov](https://codecov.io/gh/wmkDev/CFUFOR/branch/develop/graph/badge.svg?token=XtftekJqkM)](https://codecov.io/gh/wmkDev/CFUFOR)
+<table>
+  <tr>
+    <td>
+      <a href="https://travis-ci.org/"><strong>Travis CI</strong></a><p><sup>(branch: develop)</sup></p>
+    </td>
+    <td>
+      <img src="https://travis-ci.com/wmkDev/CFUFOR.svg?token=DU6rCTpvc6QuqpgHb6S9&branch=develop" alt="Travis develop">    
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://codecov.io/"><strong>Codecov</strong></a><p><sup>(branch: develop)</sup></p>
+    </td>
+    <td>
+      <img src="https://img.shields.io/codecov/c/github/wmkDev/Beast.svg?maxAge=0" alt="Codecov develop">    
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <a href="https://travis-ci.org/"><strong>Travis CI</strong></a><p><sup>(branch: main)</sup></p>
+    </td>
+    <td>
+      <img src="https://travis-ci.com/wmkDev/CFUFOR.svg?token=DU6rCTpvc6QuqpgHb6S9&branch=main" alt="Travis main">    
+    </td>
+   </tr>
+   <tr>
+    <td>
+      <a href="https://codecov.io/"><strong>Codecov</strong></a><p><sup>(branch: main)</sup></p>
+    </td>
+    <td>
+      <img src="https://img.shields.io/codecov/c/github/wmkDev/Beast.svg?maxAge=0" alt="Codecov develop">    
+    </td>
+  </tr>   
+</table>
 
 
 ## Versioning
