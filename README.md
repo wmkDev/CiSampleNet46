@@ -1,27 +1,29 @@
 # CFU-FOR
 
-Sistema de formação educacional
+Projeto Modelo com integração Azure e Travis
 
 ### Configuration
 
-.NET Framework 4.6.1
-IIS 7.5+
-SQL Server 2012+
 
 ## Deployment
 
-Deploy on azure:
+[Microsoft Azure](https://portal.azure.com/) hosting app and database.
 
-[Ambiente de Teste](http://cfufor-teste.azurewebsites.net/)
+[Ambiente de Teste](http://cfufor-teste.azurewebsites.net/) - http://cfufor-teste.azurewebsites.net/
 
 ## Built With
 
+* .NET Framework 4.6.1
+* IIS 7.5+
+* SQL Server 2012+
 * [SignalR](https://github.com/aspnet/SignalR/) - Real Time framework 2.2.1
 * [EntityFramework](https://github.com/aspnet/EntityFramework/) - ORM 6.1
 * [Structuremap](https://github.com/structuremap/structuremap/) - Dependency Management
 * [Mvc](https://github.com/aspnet/Mvc/) - MVC 5
 
 # Continuous Integration
+
+##Homologação:
 
 <table>
   <tr>
@@ -40,23 +42,26 @@ Deploy on azure:
       <img src="https://img.shields.io/codecov/c/github/wmkDev/Beast.svg?maxAge=0" alt="Codecov develop">    
     </td>
   </tr>
-  
+</table>
+
+##Produção:
+<table>
   <tr>
     <td>
-      <a href="https://travis-ci.org/"><strong>Travis CI</strong></a><p><sup>(branch: main)</sup></p>
+      <a href="https://travis-ci.org/"><strong>Travis CI</strong></a><p><sup>(branch: develop)</sup></p>
     </td>
     <td>
-      <img src="https://travis-ci.com/wmkDev/CFUFOR.svg?token=DU6rCTpvc6QuqpgHb6S9&branch=main" alt="Travis main">    
+      <img src="https://travis-ci.com/wmkDev/CFUFOR.svg?token=DU6rCTpvc6QuqpgHb6S9&branch=develop" alt="Travis develop">    
     </td>
-   </tr>
-   <tr>
+  </tr>
+  <tr>
     <td>
-      <a href="https://codecov.io/"><strong>Codecov</strong></a><p><sup>(branch: main)</sup></p>
+      <a href="https://codecov.io/"><strong>Codecov</strong></a><p><sup>(branch: develop)</sup></p>
     </td>
     <td>
       <img src="https://img.shields.io/codecov/c/github/wmkDev/Beast.svg?maxAge=0" alt="Codecov develop">    
     </td>
-  </tr>   
+  </tr>     
 </table>
 
 
@@ -64,7 +69,7 @@ Deploy on azure:
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/wmkDev/CFUFOR/tags). 
 
-Ex::: Version 2.0.0
+Ex: Version 2.0.0
 
 ## Authors
 
