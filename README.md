@@ -1,4 +1,4 @@
-# CFU-FOR
+# Projeto Modelo
 
 Projeto Modelo com integração Azure e Travis
 
