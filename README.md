@@ -27,8 +27,8 @@ Hosting App and Database on cloud => [Microsoft Azure](https://portal.azure.com/
       <a href="https://travis-ci.org/"><strong>Travis CI</strong></a><p><sup>(branch: develop)</sup></p>
     </td>
     <td>
-    <a href="https://travis-ci.com/wmkDev/CFUFOR">    
-      <img src="https://travis-ci.com/wmkDev/CFUFOR.svg?token=DU6rCTpvc6QuqpgHb6S9&branch=develop" alt="Travis develop">    
+    <a href="https://travis-ci.com/wmkDev/CiSampleNet46">    
+      <img src="https://travis-ci.com/wmkDev/CiSampleNet46.svg?token=DU6rCTpvc6QuqpgHb6S9&branch=develop" alt="Travis develop">    
       </a>
     </td>
   </tr>
@@ -37,8 +37,8 @@ Hosting App and Database on cloud => [Microsoft Azure](https://portal.azure.com/
       <a href="https://codecov.io/"><strong>Codecov</strong></a><p><sup>(branch: develop)</sup></p>
     </td>
     <td>
-      <a href="https://codecov.io/gh/wmkDev/CFUFOR">
-        <img src="https://codecov.io/gh/wmkDev/CFUFOR/branch/develop/graph/badge.svg?token=XtftekJqkM" alt="Codecov" />
+      <a href="https://codecov.io/gh/wmkDev/CiSampleNet46">
+        <img src="https://codecov.io/gh/wmkDev/CiSampleNet46/branch/develop/graph/badge.svg?token=XtftekJqkM" alt="Codecov" />
       </a>
     </td>
   </tr>
@@ -47,7 +47,7 @@ Hosting App and Database on cloud => [Microsoft Azure](https://portal.azure.com/
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/wmkDev/CFUFOR/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/wmkDev/CiSampleNet46/tags). 
 
 Ex: Version 2.0.0
 
@@ -55,7 +55,7 @@ Ex: Version 2.0.0
 
 * **Wilson Mellado** - *Initial work* - [kiko](https://github.com/wmkDev)
 
-See also the list of [contributors](https://github.com/wmkDev/CFUFOR/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/wmkDev/CiSampleNet46/contributors) who participated in this project.
 
 ## License
 
