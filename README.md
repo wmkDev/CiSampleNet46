@@ -20,6 +20,8 @@ Hosting App and Database on cloud => [Microsoft Azure](https://portal.azure.com/
 
 # Continuous Integration
 
+![Alt text](Continuous.Integration.MF.png?raw=true "CI Flow")
+
 ## Homologação:
 <table>
   <tr>
